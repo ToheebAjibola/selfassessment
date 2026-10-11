@@ -1,0 +1,14 @@
+C:\Users\Hp\RiderProjects\SelfAssesment\bin\Debug\net8.0\SelfAssesment.exe
+C:\Users\Hp\RiderProjects\SelfAssesment\bin\Debug\net8.0\SelfAssesment.deps.json
+C:\Users\Hp\RiderProjects\SelfAssesment\bin\Debug\net8.0\SelfAssesment.runtimeconfig.json
+C:\Users\Hp\RiderProjects\SelfAssesment\bin\Debug\net8.0\SelfAssesment.dll
+C:\Users\Hp\RiderProjects\SelfAssesment\bin\Debug\net8.0\SelfAssesment.pdb
+C:\Users\Hp\RiderProjects\SelfAssesment\obj\Debug\net8.0\SelfAssesment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\RiderProjects\SelfAssesment\obj\Debug\net8.0\SelfAssesment.AssemblyInfoInputs.cache
+C:\Users\Hp\RiderProjects\SelfAssesment\obj\Debug\net8.0\SelfAssesment.AssemblyInfo.cs
+C:\Users\Hp\RiderProjects\SelfAssesment\obj\Debug\net8.0\SelfAssesment.csproj.CoreCompileInputs.cache
+C:\Users\Hp\RiderProjects\SelfAssesment\obj\Debug\net8.0\SelfAssesment.dll
+C:\Users\Hp\RiderProjects\SelfAssesment\obj\Debug\net8.0\refint\SelfAssesment.dll
+C:\Users\Hp\RiderProjects\SelfAssesment\obj\Debug\net8.0\SelfAssesment.pdb
+C:\Users\Hp\RiderProjects\SelfAssesment\obj\Debug\net8.0\SelfAssesment.genruntimeconfig.cache
+C:\Users\Hp\RiderProjects\SelfAssesment\obj\Debug\net8.0\ref\SelfAssesment.dll
